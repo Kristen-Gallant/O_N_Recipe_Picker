@@ -10,7 +10,7 @@
 
 
 <a href="https://youtu.be/bdnvQeJmWLA">
-  <img src="https://img.youtube.com/vi/bdnvQeJmWLA/0.jpg" alt="Video Title" width="500" />
+  <img src="https://img.youtube.com/vi/bdnvQeJmWLA/maxresdefault.jpg" alt="Video Title" width="500" />
 </a>
 
 
