@@ -1,6 +1,6 @@
 # O_N_RECIPE_PICKER
 
-## COLLECTION OF DISHES AND RECIPES
+## IOS APP FOR MEALS AND RECIPES
 
 * Dish name
 * Average cook time
