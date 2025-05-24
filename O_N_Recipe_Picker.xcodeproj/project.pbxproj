@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		7116C4322DE096270040B035 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7116C4172DE096240040B035 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7116C41E2DE096240040B035;
+			remoteInfo = O_N_Recipe_Picker;
+		};
+		7116C43C2DE096270040B035 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 7116C4172DE096240040B035 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 7116C41E2DE096240040B035;
+			remoteInfo = O_N_Recipe_Picker;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		7116C41F2DE096240040B035 /* O_N_Recipe_Picker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = O_N_Recipe_Picker.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7116C4312DE096270040B035 /* O_N_Recipe_PickerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = O_N_Recipe_PickerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		7116C43B2DE096270040B035 /* O_N_Recipe_PickerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = O_N_Recipe_PickerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		7116C4212DE096240040B035 /* O_N_Recipe_Picker */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = O_N_Recipe_Picker;
+			sourceTree = "<group>";
+		};
+		7116C4342DE096270040B035 /* O_N_Recipe_PickerTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = O_N_Recipe_PickerTests;
+			sourceTree = "<group>";
+		};
+		7116C43E2DE096270040B035 /* O_N_Recipe_PickerUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = O_N_Recipe_PickerUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		7116C41C2DE096240040B035 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7116C42E2DE096270040B035 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7116C4382DE096270040B035 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		7116C4162DE096240040B035 = {
+			isa = PBXGroup;
+			children = (
+				7116C4212DE096240040B035 /* O_N_Recipe_Picker */,
+				7116C4342DE096270040B035 /* O_N_Recipe_PickerTests */,
+				7116C43E2DE096270040B035 /* O_N_Recipe_PickerUITests */,
+				7116C4202DE096240040B035 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		7116C4202DE096240040B035 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				7116C41F2DE096240040B035 /* O_N_Recipe_Picker.app */,
+				7116C4312DE096270040B035 /* O_N_Recipe_PickerTests.xctest */,
+				7116C43B2DE096270040B035 /* O_N_Recipe_PickerUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		7116C41E2DE096240040B035 /* O_N_Recipe_Picker */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7116C4452DE096270040B035 /* Build configuration list for PBXNativeTarget "O_N_Recipe_Picker" */;
+			buildPhases = (
+				7116C41B2DE096240040B035 /* Sources */,
+				7116C41C2DE096240040B035 /* Frameworks */,
+				7116C41D2DE096240040B035 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				7116C4212DE096240040B035 /* O_N_Recipe_Picker */,
+			);
+			name = O_N_Recipe_Picker;
+			packageProductDependencies = (
+			);
+			productName = O_N_Recipe_Picker;
+			productReference = 7116C41F2DE096240040B035 /* O_N_Recipe_Picker.app */;
+			productType = "com.apple.product-type.application";
+		};
+		7116C4302DE096270040B035 /* O_N_Recipe_PickerTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7116C4482DE096270040B035 /* Build configuration list for PBXNativeTarget "O_N_Recipe_PickerTests" */;
+			buildPhases = (
+				7116C42D2DE096270040B035 /* Sources */,
+				7116C42E2DE096270040B035 /* Frameworks */,
+				7116C42F2DE096270040B035 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7116C4332DE096270040B035 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				7116C4342DE096270040B035 /* O_N_Recipe_PickerTests */,
+			);
+			name = O_N_Recipe_PickerTests;
+			packageProductDependencies = (
+			);
+			productName = O_N_Recipe_PickerTests;
+			productReference = 7116C4312DE096270040B035 /* O_N_Recipe_PickerTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		7116C43A2DE096270040B035 /* O_N_Recipe_PickerUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 7116C44B2DE096270040B035 /* Build configuration list for PBXNativeTarget "O_N_Recipe_PickerUITests" */;
+			buildPhases = (
+				7116C4372DE096270040B035 /* Sources */,
+				7116C4382DE096270040B035 /* Frameworks */,
+				7116C4392DE096270040B035 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				7116C43D2DE096270040B035 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				7116C43E2DE096270040B035 /* O_N_Recipe_PickerUITests */,
+			);
+			name = O_N_Recipe_PickerUITests;
+			packageProductDependencies = (
+			);
+			productName = O_N_Recipe_PickerUITests;
+			productReference = 7116C43B2DE096270040B035 /* O_N_Recipe_PickerUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		7116C4172DE096240040B035 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1630;
+				LastUpgradeCheck = 1630;
+				TargetAttributes = {
+					7116C41E2DE096240040B035 = {
+						CreatedOnToolsVersion = 16.3;
+					};
+					7116C4302DE096270040B035 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = 7116C41E2DE096240040B035;
+					};
+					7116C43A2DE096270040B035 = {
+						CreatedOnToolsVersion = 16.3;
+						TestTargetID = 7116C41E2DE096240040B035;
+					};
+				};
+			};
+			buildConfigurationList = 7116C41A2DE096240040B035 /* Build configuration list for PBXProject "O_N_Recipe_Picker" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 7116C4162DE096240040B035;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 7116C4202DE096240040B035 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				7116C41E2DE096240040B035 /* O_N_Recipe_Picker */,
+				7116C4302DE096270040B035 /* O_N_Recipe_PickerTests */,
+				7116C43A2DE096270040B035 /* O_N_Recipe_PickerUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		7116C41D2DE096240040B035 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7116C42F2DE096270040B035 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7116C4392DE096270040B035 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		7116C41B2DE096240040B035 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7116C42D2DE096270040B035 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7116C4372DE096270040B035 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		7116C4332DE096270040B035 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7116C41E2DE096240040B035 /* O_N_Recipe_Picker */;
+			targetProxy = 7116C4322DE096270040B035 /* PBXContainerItemProxy */;
+		};
+		7116C43D2DE096270040B035 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 7116C41E2DE096240040B035 /* O_N_Recipe_Picker */;
+			targetProxy = 7116C43C2DE096270040B035 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		7116C4432DE096270040B035 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = R8LAV7Z5S7;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		7116C4442DE096270040B035 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = R8LAV7Z5S7;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		7116C4462DE096270040B035 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = R8LAV7Z5S7;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "nnamanigithubapps.o-n-recipe-picker.O-N-Recipe-Picker";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7116C4472DE096270040B035 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = R8LAV7Z5S7;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "nnamanigithubapps.o-n-recipe-picker.O-N-Recipe-Picker";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		7116C4492DE096270040B035 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = R8LAV7Z5S7;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "nnamanigithubapps.o-n-recipe-picker.O-N-Recipe-PickerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/O_N_Recipe_Picker.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/O_N_Recipe_Picker";
+			};
+			name = Debug;
+		};
+		7116C44A2DE096270040B035 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = R8LAV7Z5S7;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.4;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "nnamanigithubapps.o-n-recipe-picker.O-N-Recipe-PickerTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/O_N_Recipe_Picker.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/O_N_Recipe_Picker";
+			};
+			name = Release;
+		};
+		7116C44C2DE096270040B035 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = R8LAV7Z5S7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "nnamanigithubapps.o-n-recipe-picker.O-N-Recipe-PickerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = O_N_Recipe_Picker;
+			};
+			name = Debug;
+		};
+		7116C44D2DE096270040B035 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = R8LAV7Z5S7;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "nnamanigithubapps.o-n-recipe-picker.O-N-Recipe-PickerUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = O_N_Recipe_Picker;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		7116C41A2DE096240040B035 /* Build configuration list for PBXProject "O_N_Recipe_Picker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7116C4432DE096270040B035 /* Debug */,
+				7116C4442DE096270040B035 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7116C4452DE096270040B035 /* Build configuration list for PBXNativeTarget "O_N_Recipe_Picker" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7116C4462DE096270040B035 /* Debug */,
+				7116C4472DE096270040B035 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7116C4482DE096270040B035 /* Build configuration list for PBXNativeTarget "O_N_Recipe_PickerTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7116C4492DE096270040B035 /* Debug */,
+				7116C44A2DE096270040B035 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		7116C44B2DE096270040B035 /* Build configuration list for PBXNativeTarget "O_N_Recipe_PickerUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				7116C44C2DE096270040B035 /* Debug */,
+				7116C44D2DE096270040B035 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 7116C4172DE096240040B035 /* Project object */;
+}
