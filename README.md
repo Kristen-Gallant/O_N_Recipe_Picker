@@ -7,7 +7,7 @@
 * List of recipes
 
 * ## Demo Video
-[![Watch the demo]([https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)
+<a href="https://youtu.be/bdnvQeJmWLA">
+  <img src="[https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg](https://github.com/Kristen-Gallant/O_N_Recipe_Picker/blob/73138708728d72a0073409cec64d04d79f4876a7/O_N_RECIPE_PICKER.png)" alt="Video Title" width="480" />
+</a>
 
-
-![image alt](https://github.com/Kristen-Gallant/O_N_Recipe_Picker/blob/ba8d5d22998c00484518975e6aefc228ac6f5fd6/O_N_RECIPE_PICKER.png)
